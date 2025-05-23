@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\CURSO_Creación y Despliegue de Aplicaciones Web en la Nube con Azure\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "D:\\CURSOS\\CURSO_Creación_AplicacionesWebAzure\\SitioWebPlatzi\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\CURSO_Creación y Despliegue de Aplicaciones Web en la Nube con Azure\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "D:\\CURSOS\\CURSO_Creación_AplicacionesWebAzure\\SitioWebPlatzi\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\CURSO_Creación y Despliegue de Aplicaciones Web en la Nube con Azure\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "D:\\CURSOS\\CURSO_Creación_AplicacionesWebAzure\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "D:\\CURSOS\\CURSO_Creación y Despliegue de Aplicaciones Web en la Nube con Azure\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "D:\\CURSOS\\CURSO_Creación_AplicacionesWebAzure\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\CURSO_Creación y Despliegue de Aplicaciones Web en la Nube con Azure\\PlatziWebSite\\obj\\",
+        "outputPath": "D:\\CURSOS\\CURSO_Creación_AplicacionesWebAzure\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
